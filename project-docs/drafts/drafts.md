@@ -1,3 +1,9 @@
-# Draft folder content
+# Assignment 1: UX Design Report 
+- **Author**:
 
-This is an empty markdown file.  We have used this in the repo to ensure the folder structure is preserved.
+- **FAN**:
+
+- **Student ID**:
+
+**Technology** 
+---
